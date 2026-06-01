@@ -1,7 +1,7 @@
 {
   "name": "CortexEdge — Additive Manufacturing",
   "short_name": "Additive Mfg",
-  "description": "Additive Manufacturing — AM in aerospace — print parameters to AS9100 compliance. Part of CortexEdge E-Learning.",
+  "description": "Additive Manufacturing. Part of CortexEdge E-Learning.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
